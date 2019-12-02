@@ -103,7 +103,7 @@ public class Event {
         return classification;
     }
 
-    public void setClassification(Classification classification) {
+    private void setClassification(Classification classification) {
         this.classification = classification;
     }
 
